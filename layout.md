@@ -1,1 +1,2 @@
 untitled.tex
+figures/authorea_howto/authorea_howto.png
